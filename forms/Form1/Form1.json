@@ -15,7 +15,7 @@
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 1004,
+  "height": 667,
   "id": "Form1",
   "language": "JavaScript",
   "left": "0",
@@ -29,11 +29,9 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
   "top": "0",
-  "width": 768
+  "width": 375
 }
