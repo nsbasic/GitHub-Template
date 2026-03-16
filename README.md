@@ -1,5 +1,5 @@
 # GitHub-Template
-A template for NSB/AppStudio projects
+A template for NSB/AppStudio projects, ready to use with CoPilot
 
 ## Usage
 
@@ -25,6 +25,16 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 1. Click **Use this template** on GitHub to create a new repository from this template.
 2. Use GitHub Desktop to clone the new repo to your system.
 
+If that does not work automatically,
+1. Go to the home page of your new repo
+2. Click the green Code button
+3. Select https
+4. Copy the URL
+5. Go into GitHub Desktop and click Add, then Clone repository
+6. Paste the URL into the dialog box
+7. Set Local Path to where you want the new project on your local system.
+8. Click Clone
+
 #### To start a new project
 
 1. Open the project in NSB/AppStudio by loading `GitHub-Template.project`.
@@ -39,4 +49,10 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 
 ### Try CoPilot
 
-
+In your repo's home page, click on the CoPilot icon at the top of the screen.
+Enter the following into the prompt box:
+```
+Make a branch with the following changes:
+Add Bootstrap 5 button named Button1, labeled "Click Me" to Form1.
+When clicked, it should display "Hello World".
+```

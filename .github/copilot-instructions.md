@@ -44,6 +44,8 @@ NSB/AppStudio is a cross-platform desktop IDE application for building mobile an
 ## Important Conventions
 
 ### Code Organization
+- Project are in NSB/AppStudio format
+- See Creating AppStudio Projects
 
 ### File Handling
 
@@ -78,9 +80,9 @@ The IDE supports deploying to:
 
 ---
 
-## Creating AppStudio Samples
+## Creating AppStudio Projects
 
-This section contains everything needed to generate a new AppStudio sample without accessing the repository.
+This section contains everything needed to generate a new AppStudio project without accessing the repository.
 
 ### Where to Place a New Sample
 
