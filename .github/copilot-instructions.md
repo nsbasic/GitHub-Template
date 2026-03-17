@@ -8,8 +8,7 @@ NSB/AppStudio is a cross-platform desktop IDE application for building mobile an
 
 - **Primary Language**: JavaScript
 - **Secondary Language**: NSB/AppStudio BASIC
-- **GUI Framework**: NSB/AppStudio
-- **Testing**: unittest with doctest support
+- **GUI Framework**: NSB/AppStudio, as documented in https://github.com/nsbasic/Documentation. It does not use WinForms.
 
 ## Development Environment Setup
 
@@ -72,7 +71,7 @@ The IDE supports deploying to:
 
 - Setup Guide: /README.md
 - README: `README.markdown` in root directory
-- NSB/AppStudio Project File Format: https://github.com/nsbasic/nsbx/blob/master/docs/Project_File_Format.mediawiki
+- NSB/AppStudio Project File Format: [https://github.com/nsbasic/nsbx/blob/master/docs/Project_File_Format.mediawiki](https://github.com/nsbasic/Documentation/blob/main/wiki/AppStudio_Project_File_Format.html)
 
 ---
 
