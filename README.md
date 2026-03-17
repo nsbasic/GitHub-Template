@@ -58,7 +58,7 @@ If that does not work automatically,
 2. Make sure the repo name is set to the name of your new repo, not `All repositories`.
 3. Enter the following into the `Ask anything` prompt box:
 ```
-Make a branch with the following changes:
+Using .github/copilot-instructions.md, make a branch with the following changes:
 Modify Form1 by adding a Bootstrap 5 button named Button1, labeled "Click Me".
 When clicked, it should display a message box with "Hello World".
 ```
