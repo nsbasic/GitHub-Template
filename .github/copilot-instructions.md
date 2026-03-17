@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-NSB/AppStudio is a cross-platform desktop IDE application for building mobile and web applications using BASIC and JavaScript. The application is built with Python and wxPython, and runs on Windows and macOS.
+NSB/AppStudio is a cross-platform desktop IDE application for building mobile and web applications using BASIC and JavaScript.
 
 ## Technology Stack
 
@@ -44,12 +44,8 @@ NSB/AppStudio is a cross-platform desktop IDE application for building mobile an
 ## Important Conventions
 
 ### Code Organization
-- Project are in NSB/AppStudio format
-- See Creating AppStudio Projects
-
-### File Handling
-
-### Dependencies
+- The project type is NSB/AppStudio, also called AppStudio for short.
+- See Creating NSB/AppStudio Projects
 
 ## Deployment Targets
 
@@ -76,7 +72,7 @@ The IDE supports deploying to:
 
 - Setup Guide: /README.md
 - README: `README.markdown` in root directory
-- AppStudio Project File Format: https://github.com/nsbasic/nsbx/blob/master/docs/Project_File_Format.mediawiki
+- NSB/AppStudio Project File Format: https://github.com/nsbasic/nsbx/blob/master/docs/Project_File_Format.mediawiki
 
 ---
 
