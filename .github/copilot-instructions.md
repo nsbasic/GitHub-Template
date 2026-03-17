@@ -30,16 +30,6 @@ NSB/AppStudio is a cross-platform desktop IDE application for building mobile an
 - `properties/` - template files used when building the app 
 - `certificates/` - Contains signing keys for VoltBuilder
 
-## Testing
-
-## Build and Release
-
-### Building
-
-### CI/CD
-
-## Internationalization
-
 ## Important Conventions
 
 ### Code Organization
@@ -54,13 +44,7 @@ The IDE supports deploying to:
 - FTP/SFTP servers
 - VoltBuilder (mobile app packaging)
 - Electron (desktop apps)
-
-## Key Features to Consider
-
-## Common Tasks
-
-## Best Practices
-
+  
 ## Security Considerations
 
 - Never commit secrets or credentials
