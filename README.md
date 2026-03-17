@@ -22,10 +22,7 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 
 ### Getting Started
 
-1. Click **Use this template** on GitHub to create a new repository from this template.
-2. Use GitHub Desktop to clone the new repo to your system.
-
-#### 
+#### To start a new project
 
 1. Using the green **Code** button, click **Download ZIP** and unzip on your local system.
 2. Rename it what you want, like `test`.
@@ -40,9 +37,13 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 
 #### To use an existing project
 
-1. Go to your project's folder. It should end in .appStudio
-2. Copy that folder into the cloned template folder
-3. Open the project as usual.
+1. Do the above steps to start a new project.
+2. Go to your project's folder. It should end in .appStudio
+3. Copy that folder into the cloned template folder
+4. Remove the .appstudio folder that was there before.
+5. Add a name for the push, like “initial push”
+6. Publish repository
+7. Go to GitHub website. Your project should be there.
 
 ### Try CoPilot
 
@@ -53,3 +54,9 @@ Modify Form1 by adding a Bootstrap 5 button named Button1, labeled "Click Me".
 When clicked, it should display a message box with "Hello World".
 ```
 You can click on the action to watch it work.
+When complete, merge the changes into your project.
+
+**Important**
+
+When using CoPilot to modify your code, make sure your project is not open in AppStudio.
+Your changes could be overwritten.
