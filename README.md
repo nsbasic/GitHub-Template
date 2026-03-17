@@ -25,26 +25,18 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 1. Click **Use this template** on GitHub to create a new repository from this template.
 2. Use GitHub Desktop to clone the new repo to your system.
 
-If that does not work automatically,
-1. Go to the home page of your new repo
-2. Click the green Code button
-3. Select https
-4. Copy the URL
-5. Go into GitHub Desktop and click Add, then Clone repository
-6. Paste the URL into the dialog box
-7. Set Local Path to where you want the new project on your local system.
-8. Click Clone
+#### 
 
-#### To start a new project
-
-1. Download zip and unzip
-2. Rename what you want, like `test`
-3. GHD: Create repository where you want it, Give it same name
-4. Copy downloaded `test` folder over the created one
-5. Go to GHD. It should show all the files as changed.
-6. Add a description, like “initial push”
-7. Publish repository
-8. Go to GItHub website. Your project should be there.
+1. Using the green **Code** button, click **Download ZIP** and unzip on your local system.
+2. Rename it what you want, like `test`.
+3. In GitHub Desktop, select **New New Repository** from the **File** menu.
+4. Give it the same name (`test`) and set the local path where you want it.
+5. Click on **Create Repository**
+6. Copy the downloaded `test` folder over the `test` folder in the new repo.
+7. GitHub Desktop should show all the files as changed.
+8. Add a name for the push, like “initial push”
+9. Publish repository
+10. Go to GitHub website. Your project should be there.
 
 #### To use an existing project
 
@@ -54,11 +46,10 @@ If that does not work automatically,
 
 ### Try CoPilot
 
-1. In your repo's home page, click on the CoPilot icon at the top of the screen.
-2. Make sure the repo name is set to the name of your new repo, not `All repositories`.
-3. Enter the following into the `Ask anything` prompt box:
+1. In your repo's home page, click on the **Agents** tab.
+2. Paste the following into the `Describe a coding task to work on` prompt box, then click on the **Start task** button
 ```
-Using .github/copilot-instructions.md, make a branch with the following changes:
 Modify Form1 by adding a Bootstrap 5 button named Button1, labeled "Click Me".
 When clicked, it should display a message box with "Hello World".
 ```
+You can click on the action to watch it work.
