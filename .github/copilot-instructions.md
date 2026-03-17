@@ -25,7 +25,7 @@ NSB/AppStudio is a cross-platform desktop IDE application for building mobile an
 
 ### Important Directories
 - `forms/` - Contains Form Files
-- `forms/elements` - Contains Element Files for each form
+- `forms/Elements` - Contains Element Files for each form
 - `cache/` - temporary files
 - `properties/` - template files used when building the app 
 - `certificates/` - Contains signing keys for VoltBuilder
