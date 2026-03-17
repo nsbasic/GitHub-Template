@@ -9,10 +9,10 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 
 - `LICENSE` - the license for this template, not necessarily the same as your license, which will be in you 
 - `README.md` - this document. Update it with general information for your own project.
-- `GitHub-Template,appstudio/GitHub-Template.project` – AppStudio project file (JavaScript, one empty form)
-- `GitHub-Template.appstudio/forms/Form1/Form1.json` – Form definition File for Form1
-- `GitHub-Template.appstudio/forms/Form1/Form1.js` – JavaScript code file for Form1
-- `GitHub-Template.appstudio/properties` – build option files for your project
+- `Project1,appstudio/Project1.project` – AppStudio project file (JavaScript, one empty form)
+- `Project1.appstudio/forms/Form1/Form1.json` – Form definition File for Form1
+- `Project1.appstudio/forms/Form1/Form1.js` – JavaScript code file for Form1
+- `Project1.appstudio/properties` – build option files for your project
 
 ### Prerequisites
 
