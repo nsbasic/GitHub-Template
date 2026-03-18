@@ -1,6 +1,10 @@
 # github-template
 A template for NSB/AppStudio projects, ready to use with CoPilot
 
+Once you have made a project of your own, in your own repo, using this template, replace the above with a descripion of your project. You may also want to change the LICENSE. 
+
+You can also replace the text below with information specific to your project when you no longer need it.
+
 ## Usage
 
 This repository is a starting-point template for [NSB/AppStudio](https://www.nsbasic.com/) projects.
