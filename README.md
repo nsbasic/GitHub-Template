@@ -1,4 +1,4 @@
-# GitHub-Template
+# github-template
 A template for NSB/AppStudio projects, ready to use with CoPilot
 
 ## Usage
@@ -26,7 +26,7 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 
 1. Using the green **Code** button, click **Download ZIP** and unzip on your local system.
 2. Rename it what you want, like `test`.
-3. In GitHub Desktop, select **New New Repository** from the **File** menu.
+3. In GitHub Desktop, select **New Repository** from the **File** menu.
 4. Give it the same name (`test`) and set the local path where you want it.
 5. Click on **Create Repository**
 6. Copy the downloaded `test` folder over the `test` folder in the new repo.
